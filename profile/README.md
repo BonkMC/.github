@@ -5,6 +5,7 @@ Welcome to **Bonk Network** — a vibrant, community-driven Minecraft server net
 ## 🌐 Server Information
 
 * **Java IP**: `play.bonkmc.net`
+* **Bedrock Port**: `19132`
 * **Supported Versions**: 1.20.x – Latest
 * **Player Capacity**: 500 slots
 * **Website**: [bonkmc.net](https://bonkmc.net/)
