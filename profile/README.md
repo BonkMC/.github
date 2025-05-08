@@ -7,7 +7,6 @@ Welcome to **Bonk Network** — a vibrant, community-driven Minecraft server net
 * **Java IP**: `play.bonkmc.net`
 * **Supported Versions**: 1.20.x – Latest
 * **Player Capacity**: 500 slots
-* **Status**: Online
 * **Website**: [bonkmc.net](https://bonkmc.net/)
 * **Store**: [https://bonkmc.tebex.io](https://bonkmc.tebex.io)
 * **Discord**: [Join Here](https://discord.gg/bonknetwork)
