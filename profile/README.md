@@ -1,6 +1,6 @@
-# Bonk Network
+# BonkMC
 
-Welcome to **Bonk Network** — a vibrant, community-driven Minecraft server network offering a unique blend of Vanilla+ gameplay and engaging PvP experiences. Our mission is to provide an inclusive and dynamic environment for players of all backgrounds, including those using offline/cracked clients.
+Welcome to **BonkMC** — a vibrant, community-driven Minecraft server network offering a unique blend of Vanilla+ gameplay and engaging PvP experiences. Our mission is to provide an inclusive and dynamic environment for players of all backgrounds, including those using offline/cracked clients.
 
 ## 🌐 Server Information
 
@@ -27,7 +27,7 @@ Bonk Network thrives on its active and welcoming community. Whether you're a bui
 
 ## 📂 GitHub Repositories
 
-This GitHub organization hosts various projects related to the Bonk Network, including:
+This GitHub organization hosts various projects related to the BonkMC, including:
 
 * **Server Plugins**: Custom plugins developed to enhance server functionality.
 * **Configuration Files**: Settings and configurations for optimal server performance.
@@ -54,6 +54,6 @@ All projects within this organization are licensed under the [MIT License](LICEN
 
 ---
 
-Join us in building and expanding the Bonk Network community. Whether you're here to play, develop, or contribute, there's a place for you in our growing ecosystem.
+Join us in building and expanding the BonkMC community. Whether you're here to play, develop, or contribute, there's a place for you in our growing ecosystem.
 
 For more information, visit our [website](https://bonkmc.net/) or join our [Discord server](https://discord.gg/bonknetwork).
