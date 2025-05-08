@@ -9,7 +9,7 @@ Welcome to **Bonk Network** — a vibrant, community-driven Minecraft server net
 * **Player Capacity**: 500 slots
 * **Status**: Online
 * **Website**: [bonkmc.net](https://bonkmc.net/)
-* **Store**: [bonknetwork.craftingstore.net](https://bonkmc.tebex.io)
+* **Store**: [https://bonkmc.tebex.io](https://bonkmc.tebex.io)
 * **Discord**: [Join Here](https://discord.gg/bonknetwork)
 
 ## 🎮 Features
