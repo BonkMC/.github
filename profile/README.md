@@ -2,6 +2,13 @@
 
 Welcome to **BonkMC** — a vibrant, community-driven Minecraft server network offering a unique blend of Vanilla+ gameplay and engaging PvP experiences. Our mission is to provide an inclusive and dynamic environment for players of all backgrounds, including those using offline/cracked clients.
 
+# Projects
+- ~~The ModernAuth Project~~ - Private (Canceled due to incompatibilities, lack of funding, and lack of developers)
+- ~~BonkAC~~ - Private (Canceled due to lack of developers)
+- SpecialSwords - Public
+- StoryMode Plugins - Private
+- Discord Bots for Tickets and Moderation - Public
+
 ## 🌐 Server Information
 
 * **Java IP**: `play.bonkmc.net`
