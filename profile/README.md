@@ -5,9 +5,9 @@ Welcome to **BonkMC** — a vibrant, community-driven Minecraft server network o
 # Projects
 - ~~The ModernAuth Project~~ - Private (Canceled due to incompatibilities, lack of funding, and lack of developers)
 - ~~BonkAC~~ - Private (Canceled due to lack of developers)
-- SpecialSwords - Public
-- StoryMode Plugins - Private
-- Discord Bots for Tickets and Moderation - Public
+- SpecialSwords - Public (Saved for future work)
+- StoryMode Plugins - Private - Current Focus
+- Discord Bots for Tickets and Moderation - Public - Secondary Focus
 
 ## 🌐 Server Information
 
