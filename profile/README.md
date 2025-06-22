@@ -4,10 +4,11 @@ Welcome to **BonkMC** — a vibrant, community-driven Minecraft server network o
 
 # Projects
 - ~~**The ModernAuth Project**~~ - Private (Canceled due to incompatibilities, lack of funding, and lack of developers)
-- ~~**BonkAC**~~ - Private (Canceled due to lack of developers)
+- ~~**BonkMonitor, formerly called BonkAC**~~ - Private (Canceled due to lack of developers)
 - **SpecialSwords** - Public (Saved for future work)
-- **StoryMode Plugins** - Private (Current Focus)
-- **Discord Bots for Tickets and Moderation** - Public (Secondary Focus)
+- **BonkMLAC (Bonk Machine Learning Anticheat)** - Private (Current Focus)
+- **StoryMode Plugins** - Private (Secondary Focus)
+- **Discord Bots for Tickets and Moderation** - Public (Tertiary Focus)
 
 ## 🌐 Server Information
 
