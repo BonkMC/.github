@@ -36,17 +36,6 @@ This GitHub organization hosts various projects related to the BonkMC, including
 
 *Note: Repositories will be populated as projects are developed and released.*
 
-## 🤝 Contributing
-
-We welcome contributions from the community! If you're interested in helping out, please follow these steps:
-
-1. **Fork** this repository.
-2. **Create** a new branch for your feature or bugfix.
-3. **Commit** your changes with clear and descriptive messages.
-4. **Push** your branch to your forked repository.
-5. **Open** a Pull Request detailing your changes.
-
-Please ensure your code adheres to our coding standards and includes appropriate documentation.
 
 ## 📄 License
 
